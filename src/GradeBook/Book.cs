@@ -34,7 +34,7 @@ namespace GradeBook
     public Statistics GetStatistics()
     {
       Statistics result = new Statistics();
-
+      //wriing comment here for 
       result.Average = 0.0;
       result.High = double.MinValue;
       result.Low = double.MaxValue;
